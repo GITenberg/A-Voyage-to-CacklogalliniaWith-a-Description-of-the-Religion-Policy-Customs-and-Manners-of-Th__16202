@@ -1,0 +1,39 @@
+_repo: A-Voyage-to-CacklogalliniaWith-a-Description-of-the-Religion-Policy-Customs-and-Manners-of-Th__16202
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Nicolson, Marjorie Hope
+    birthdate: 1894
+    deathdate: 1981
+    gutenberg_agent_id: '6564'
+    url: http://www.gutenberg.org/2009/agents/6564
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Brunt, Samuel
+    alias: Brunt, Captain Samuel
+    gutenberg_agent_id: '6536'
+    url: http://www.gutenberg.org/2009/agents/6536
+description: ''
+gutenberg_issued: '2005-07-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16202'
+  lccn: '40006468'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Travelers -- Fiction'
+- !lcsh 'Swift, Jonathan, 1667-1745. Gulliver''s travels'
+- !lcsh 'Interplanetary voyages -- Early works to 1800'
+- !lcsh 'Voyages, Imaginary -- Early works to 1800'
+- !lcsh 'Imaginary societies -- Early works to 1800'
+title: 'A Voyage to Cacklogallinia
+
+  With a Description of the Religion, Policy, Customs and Manners of That Country'
+url: http://www.gutenberg.org/ebooks/16202
